@@ -22,7 +22,7 @@ You can also change the probability distribution of a cell spawning when you pre
 I recently started learning GLSL and thought that implementing this in GLSL would be a nice way to start getting familiar with it.
 I don't know if how I implemented is the best way, but i was able to get solid 60 FPS with a gridsize of 2048 on a 1070 Ti.
 
-![](gifs/glsl_random.gif
+![](gifs/glsl_random.gif)
 
 ### Notes:
 A TOX version is available in the TOX folder.
